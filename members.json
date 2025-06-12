@@ -10,7 +10,7 @@
       "name": "tyler",
       "year": "freshman",
       "role": "programmer",
-      "photo": "public/stealth/members/sohan.webp"
+      "photo": "/public/stealth/members/sohan.webp"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "members": [
+    {
+      "name": "sohan",
+      "year": "freshman",
+      "role": "programmer",
+      "photo": "./pictures/sohan.png"
+    }, 
+    {
+      "name": "tyler",
+      "year": "freshman",
+      "role": "programmer",
+      "photo": "./pictures/tyler.png"
+    }
+  ]
+}

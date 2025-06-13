@@ -7,25 +7,25 @@
       "year": "Junior",
       "attending": "University of Tampa",
       "major": "Finance",
-      "image": "/stealth/alumni/alex.jpg"
+      "image": "/Alumni/alex.jpg"
     },
     {
       "name": "Yash D.",
       "role": "Builder and Driver",
       "seasons": "Rover Ruckus, Skystone, Ultimate Goal, and Freight Frenzy",
-      "image": "/stealth/alumni/yash.jpg"
+      "image": "/Alumni/yash.jpg"
     },
     {
       "name": "Jake M.",
       "role": "Builder and Programmer",
       "seasons": "Rover Ruckus, Skystone, and Ultimate Goal",
-      "image": "/stealth/alumni/jakem.jpg"
+      "image": "/Alumni/jakem.jpg"
     },
     {
       "name": "Jake S.",
       "role": "Builder and Programmer",
       "seasons": "Rover Ruckus, Skystone, and Ultimate Goal",
-      "image": "/stealth/alumni/jake.wepb"
+      "image": "/Alumni/jake.wepb"
     }
   ]
 }

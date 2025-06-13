@@ -1,0 +1,25 @@
+{
+  "alumni": [
+    {
+      "name": "Alex B.",
+      "role": "Builder and Statistician",
+      "seasons": "Relic Recovery, Rover Ruckus, Skystone, Ultimate Goal, and Freight Frenzy",
+      "year": "Junior",
+      "attending": "University of Tampa",
+      "major": "Finance",
+      "image": "/stealth/alumni/alex.jpg"
+    },
+    {
+      "name": "Yash D.",
+      "role": "Builder and Driver",
+      "seasons": "Rover Ruckus, Skystone, Ultimate Goal, and Freight Frenzy",
+      "image": "/stealth/alumni/yash.jpg"
+    },
+    {
+      "name": "Jake M.",
+      "role": "Builder and Programmer",
+      "seasons": "Rover Ruckus, Skystone, and Ultimate Goal",
+      "image": "/stealth/alumni/jake.jpg"
+    }
+  ]
+}

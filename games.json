@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "year": "2024-2025",
+      "name": "INTO THE DEEP",
+      "description": "",
+      "gameVideo": "https://www.youtube.com/embed/ewlDPvRK4U4",
+      "robotImage": "/placeholder.svg?height=300&width=300"
+    },
+    {
+      "year": "2023-2024",
+      "name": "CENTERSTAGE",
+      "description": "",
+      "gameVideo": "https://www.youtube.com/embed/6e-5Uo1dRic?start=1",
+      "robotImage": "/images/robots/2023-2024-robot.jpg"
+    },
+    {
+      "year": "2022-2023",
+      "name": "POWERPLAY",
+      "description": "",
+      "gameVideo": "https://www.youtube.com/embed/6e-5Uo1dRic",
+      "robotImage": "/images/robots/2022-2023-robot.jpg"
+    }
+  ]
+}

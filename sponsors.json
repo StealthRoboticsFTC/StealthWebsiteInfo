@@ -1,0 +1,20 @@
+{
+  "sponsors": [
+    {
+      "name": "Sponsor A",
+      "logo": "/Sponsors/sponsor-a.png"
+    },
+    {
+      "name": "Sponsor B",
+      "logo": "/Sponsors/sponsor-b.png"
+    },
+    {
+      "name": "Sponsor C",
+      "logo": "/Sponsors/sponsor-c.png"
+    },
+    {
+      "name": "Sponsor D",
+      "logo": null
+    }
+  ]
+}

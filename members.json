@@ -4,13 +4,13 @@
       "name": "sohan",
       "year": "freshman",
       "role": "programmer",
-      "photo": "/public/stealth/members/sohan.webp"
+      "photo": "/stealth/members/sohan.webp"
     }, 
     {
       "name": "tyler",
       "year": "freshman",
       "role": "programmer",
-      "photo": "/public/stealth/members/sohan.webp"
+      "photo": "/stealth/members/sohan.webp"
     }
   ]
 }

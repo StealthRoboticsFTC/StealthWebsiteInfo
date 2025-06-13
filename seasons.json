@@ -1,0 +1,89 @@
+{
+  "seasons": [
+    {
+      "season": "2022-2023 POWERPLAY",
+      "events": [
+        {
+          "name": "State Championship",
+          "date": "March 4, 2023",
+          "result": "Finalist Alliance Captain, Think Award Winner"
+        },
+        {
+          "name": "League Championship",
+          "date": "February 18, 2023",
+          "result": "Inspire Award Winner, Finalist Alliance Captain"
+        },
+        {
+          "name": "Meet 3",
+          "date": "December 10, 2022",
+          "result": "1st Place Robot"
+        }
+      ]
+    },
+    {
+      "season": "2023-2024 CENTERSTAGE",
+      "events": [
+        {
+          "name": "State Championship",
+          "date": "March 2, 2024",
+          "result": "Solomon Division Finalist Alliance - 2nd Pick"
+        },
+        {
+          "name": "League Championship",
+          "date": "February 17, 2024",
+          "result": "Finalist Alliance Captain, Think Award Winner, Inspire Award 3rd Place"
+        },
+        {
+          "name": "Meet 3",
+          "date": "December 9, 2023",
+          "result": "1st Place Robot"
+        },
+        {
+          "name": "Meet 2",
+          "date": "November 18, 2023",
+          "result": "2nd Place Robot"
+        }
+      ]
+    },
+    {
+      "season": "2021-2022 FREIGHT FRENZY",
+      "events": [
+        {
+          "name": "State Championship",
+          "date": "March 5, 2022",
+          "result": "Finalist Alliance Captain, Think Award Winner"
+        },
+        {
+          "name": "League Championship",
+          "date": "February 19, 2022",
+          "result": "Inspire Award Winner, Finalist Alliance Captain"
+        },
+        {
+          "name": "Meet 3",
+          "date": "December 11, 2021",
+          "result": "1st Place Robot"
+        }
+      ]
+    },
+    {
+      "season": "2020-2021 ULTIMATE GOAL",
+      "events": [
+        {
+          "name": "State Championship",
+          "date": "March 6, 2021",
+          "result": "Finalist Alliance Captain, Think Award Winner"
+        },
+        {
+          "name": "League Championship",
+          "date": "February 20, 2021",
+          "result": "Inspire Award Winner, Finalist Alliance Captain"
+        },
+        {
+          "name": "Meet 3",
+          "date": "December 12, 2020",
+          "result": "1st Place Robot"
+        }
+      ]
+    }
+  ]
+}

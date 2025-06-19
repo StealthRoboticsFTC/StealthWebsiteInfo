@@ -3,42 +3,42 @@
     {
       "name": "Arnav B.",
       "role": "Builder",
-      "photo": "/Members/logo.png"
+      "image": "/Members/logo.png"
     }, 
     {
       "name": "Annat J.",
       "role": "Builder and Programmer",
-      "photo": "/Members/annat.JPG"
+      "image": "/Members/annat.JPG"
     },
     {
       "name": "Reyna J.",
       "role": "Outreach",
-      "photo": "/Members/reyna.JPG"
+      "image": "/Members/reyna.JPG"
     },
     {
       "name": "Gabe J.",
       "role": "Programmer",
-      "photo": "/Members/logo.png"
+      "image": "/Members/logo.png"
     },
     {
       "name": "Zach J.",
       "role": "Builder",
-      "photo": "/Members/logo.png"
+      "image": "/Members/logo.png"
     },
     {
       "name": "Essa R.",
       "role": "Builder",
-      "photo": "/Members/logo.png"
+      "image": "/Members/logo.png"
     },
     {
       "name": "Ayaan S.",
       "role": "Programmer",
-      "photo": "/Members/logo.png"
+      "image": "/Members/logo.png"
     },
     {
       "name": "Sahil S.",
       "role": "Builder",
-      "photo": "/Members/logo.png"
+      "image": "/Members/logo.png"
     }
   ]
 }

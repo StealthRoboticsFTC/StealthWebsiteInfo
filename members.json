@@ -4,47 +4,47 @@
       "name": "Arnav B.",
       "year": "Sophmore",
       "role": "Builder",
-      "photo": "/logo.png"
+      "photo": "logo.png"
     }, 
     {
       "name": "Annat J.",
       "year": "Freshman",
       "role": "Builder and Programmer",
-      "photo": "/logo.png"
+      "photo": "logo.png"
     },
     {
       "name": "Reyna J.",
       "year": "Junior",
       "role": "Outreach",
-      "photo": "/logo.png"
+      "photo": "logo.png"
     },
     {
       "name": "Gabe J.",
       "year": "Freshman",
       "role": "Programmer",
-      "photo": "/logo.png"
+      "photo": "logo.png"
     },
     {
       "name": "Zach J.",
       "role": "Builder",
-      "photo": "/logo.png"
+      "photo": "logo.png"
     },
     {
       "name": "Essa R.",
       "year": "Sophmore",
       "role": "Builder",
-      "photo": "/logo.png"
+      "photo": "logo.png"
     },
     {
       "name": "Ayaan S.",
       "year": "7th Grade",
       "role": "Programmer",
-      "photo": "/logo.png"
+      "photo": "logo.png"
     },
     {
       "name": "Sahil S.",
       "role": "Builder",
-      "photo": "/logo.png"
+      "photo": "logo.png"
     }
   ]
 }

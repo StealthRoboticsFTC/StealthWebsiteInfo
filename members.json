@@ -2,25 +2,21 @@
   "members": [
     {
       "name": "Arnav B.",
-      "year": "Sophmore",
       "role": "Builder",
       "photo": "/Members/logo.png"
     }, 
     {
       "name": "Annat J.",
-      "year": "Freshman",
       "role": "Builder and Programmer",
       "photo": "/Members/annat.JPG"
     },
     {
       "name": "Reyna J.",
-      "year": "Junior",
       "role": "Outreach",
       "photo": "/Members/reyna.JPG"
     },
     {
       "name": "Gabe J.",
-      "year": "Freshman",
       "role": "Programmer",
       "photo": "/Members/logo.png"
     },
@@ -31,13 +27,11 @@
     },
     {
       "name": "Essa R.",
-      "year": "Sophmore",
       "role": "Builder",
       "photo": "/Members/logo.png"
     },
     {
       "name": "Ayaan S.",
-      "year": "7th Grade",
       "role": "Programmer",
       "photo": "/Members/logo.png"
     },

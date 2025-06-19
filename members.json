@@ -1,16 +1,16 @@
 {
   "members": [
     {
-      "name": "sohan",
-      "year": "freshman",
-      "role": "programmer",
+      "name": "Arnav B.",
+      "year": "Sophmore",
+      "role": "Builder",
       "photo": "/Members/sohan.webp"
     }, 
     {
-      "name": "tyler",
+      "name": "Annat",
       "year": "freshman",
       "role": "programmer",
-      "photo": "/Members/sohan.webp"
+      "photo": "/Members/annat.JPG"
     }
   ]
 }

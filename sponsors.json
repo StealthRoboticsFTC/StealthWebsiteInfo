@@ -10,7 +10,12 @@
       "logo": "/Sponsors/haas.png"
     },
 
-  { 
+    {
+      "name":"Zebra",
+      "logo": "/Sponsors/alp.png"
+    },
+
+    { 
       "name":"Alp Steel",
       "logo": "/Sponsors/alp.png"
     },

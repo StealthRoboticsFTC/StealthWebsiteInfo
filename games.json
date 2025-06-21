@@ -3,23 +3,37 @@
     {
       "year": "2024-2025",
       "name": "INTO THE DEEP",
-      "description": "",
+      "description": "Robots scored samples into baskets, converted them into specimens to place in chambers, and climbed a submersible bar in the endgame.",
       "gameVideo": "https://www.youtube.com/embed/ewlDPvRK4U4",
-      "robotImage": "/placeholder.svg?height=300&width=300"
+      "robotImage": "/Robot/deep.JPG"
     },
     {
       "year": "2023-2024",
       "name": "CENTERSTAGE",
-      "description": "",
+      "description": "Robots placed pixels on a backdrop, navigated over trusses, and hung from a rigging bar in the endgame.",
       "gameVideo": "https://www.youtube.com/embed/6e-5Uo1dRic?start=1",
-      "robotImage": "/images/robots/2023-2024-robot.jpg"
+      "robotImage": "/Robot/stage.JPG"
     },
     {
       "year": "2022-2023",
       "name": "POWERPLAY",
-      "description": "",
+      "description": "Robots placed cones on various height junctions to create connected circuits across the field.",
       "gameVideo": "https://www.youtube.com/embed/6e-5Uo1dRic",
-      "robotImage": "/images/robots/2022-2023-robot.jpg"
+      "robotImage": "/Robot/power.JPG"
+    },
+    {
+      "year": "2021-2022",
+      "name": "Freight Frenzy",
+      "description": "Robots moved freight (balls/cubes) onto alliance hubs, balanced the hub, spun a duck carousel, and parked in specific zones.",
+      "gameVideo": "https://www.youtube.com/embed/I6lX12idAf8?si=BVQUT0t8jffqYpbh",
+      "robotImage": "/images/robots/2021-2022-robot.jpg"
+    },
+    {
+      "year": "2020-2021",
+      "name": "Ultimate Goal",
+      "description": "Robots shot rings into low, mid, and high goals, knocked down “power shot” targets, and delivered wobble goals to target zones.",
+      "gameVideo": "https://www.youtube.com/embed/H3V3A7CgwPU?",
+      "robotImage": "/images/robots/2020-2021-robot.jpg"
     }
   ]
 }

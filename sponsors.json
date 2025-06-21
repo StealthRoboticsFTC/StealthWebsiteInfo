@@ -1,19 +1,15 @@
 {
   "sponsors": [
     {
-      "name": "Sponsor A",
-      "logo": "/Sponsors/sponsor-a.png"
+      "name": "Swiss Automation",
+      "logo": "/Sponsors/swiss.png"
     },
     {
-      "name": "Sponsor B",
-      "logo": "/Sponsors/sponsor-b.png"
+      "name": "Gene Hass Foundation",
+      "logo": "/Sponsors/hass.png"
     },
     {
-      "name": "Sponsor C",
-      "logo": "/Sponsors/sponsor-c.png"
-    },
-    {
-      "name": "Sponsor D",
+      "name": "Anonymous Donor",
       "logo": null
     }
   ]

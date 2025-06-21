@@ -1,12 +1,16 @@
 {
   "sponsors": [
     {
+      "name": "Collins Areospace",
+      "logo": "/Sponsors/collins.jpeg"
+    },
+    {
       "name": "Swiss Automation",
       "logo": "/Sponsors/swiss.png"
     },
     {
-      "name": "Gene Hass Foundation",
-      "logo": "/Sponsors/hass.png"
+      "name": " The Berlin Faimily",
+      "logo": null
     },
     {
       "name": "Anonymous Donor",

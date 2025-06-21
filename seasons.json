@@ -4,19 +4,28 @@
       "season": "2025-2026 INTO THE DEEP",
       "events": [
         {
+          "name": "State Championship",
+          "date": "March 1st, 2025",
+          "result": "Finalist Alliance Captain and 2nd Place Think Award"
+        },
+        {
           "name": "League Championship",
-          "result": "N/A"
+          "date": "February 12, 2025",
+          "result": "Winning Alliance Captain and Connect Award"
         },
         {
           "name": "Meet 3",
-          "result": "N/A"
+          "date" : null,
+          "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
+          "date" : null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 1",
+          "date" : null,
           "result": "1st Place Robot"
         }
       ]
@@ -26,24 +35,27 @@
       "events": [
         {
           "name": "State Championship",
-          "date": "March 25, 2024",
-          "result": "Design Award"
+          "date": "March 2, 2024",
+          "result": "Solomon Division Finalist Alliance 2nd Pick"
         },
         {
           "name": "League Championship",
           "date": "February 12, 2024",
-          "result": "Finalist Alliance Captain, 1st Place Think Award, 3rd Place Inspire Award"
+          "result": "Finalist Alliance Captain, 3rd Place Inspire Award, and 1st Place Think Award"
         },
         {
           "name": "Meet 3",
+          "date" : null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
+          "date" : null,
           "result": "2nd Place Robot"
         },
         {
           "name": "Meet 1",
+          "date" : null,
           "result": "1st Place Robot"
         }
       ]
@@ -59,18 +71,21 @@
         {
           "name": "League Championship",
           "date": "February 12, 2023",
-          "result": "1st Place Robot, Winning Alliance Captain, 1st Place Inspire Award"
+          "result": "Winning Alliance Captain, 1st Place Inspire Award, and Dean's List Semi-Finalists"
         },
         {
           "name": "Meet 3",
+          "date" : null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
+          "date" : null,
           "result": "2nd Place Robot"
         },
         {
           "name": "Meet 1",
+          "date" : null,
           "result": "1st Place Robot"
         }
       ]
@@ -86,18 +101,21 @@
         {
           "name": "League Championship",
           "date": "February 12, 2022",
-          "result": "1st Place Robot, Winning Alliance Captain, 1st Place Connect Award, 2nd Place Inspire Award"
+          "result": "Winning Alliance Captain, 2nd Place Inspire Award, and 1st Place Connect Award"
         },
         {
           "name": "Meet 3",
+          "date" : null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
+          "date" : null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 1",
+          "date" : null,
           "result": "1st Place Robot"
         }
       ]
@@ -107,24 +125,32 @@
       "events": [
         {
           "name": "State Championship",
-          "date": "March 12, 2021",
+          "date": null,
           "result": "1st Place Robot, 3rd Place Think Award"
         },
         {
           "name": "League Championship",
-          "date": "February 12, 2021",
+          "date": null,
           "result": "1st Place Robot, 1st Place Think Award"
         },
         {
+          "name": "Meet 4",
+          "date" : null,
+          "result": "1st Place Robot"
+        },
+        {
           "name": "Meet 3",
+          "date" : null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
+          "date" : null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 1",
+          "date" : null,
           "result": "1st Place Robot"
         }
       ]

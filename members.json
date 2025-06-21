@@ -3,7 +3,7 @@
     {
       "name": "Arnav B.",
       "role": "Builder",
-      "image": "/Members/logo.png"
+      "image": "/Members/arnav.JPG"
     }, 
     {
       "name": "Annat J.",
@@ -18,7 +18,7 @@
     {
       "name": "Gabe J.",
       "role": "Programmer",
-      "image": "/Members/logo.png"
+      "image": "/Members/gabe.JPG"
     },
     {
       "name": "Zach J.",
@@ -33,12 +33,12 @@
     {
       "name": "Ayaan S.",
       "role": "Programmer",
-      "image": "/Members/logo.png"
+      "image": "/Members/ayaan.JPG"
     },
     {
       "name": "Sahil S.",
       "role": "Builder",
-      "image": "/Members/logo.png"
+      "image": "/Members/sahil.JPG"
     }
   ]
 }

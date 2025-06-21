@@ -4,12 +4,23 @@
       "name": "Collins Areospace",
       "logo": "/Sponsors/collins.jpeg"
     },
+
+    {
+      "name":"Gene Hass Foundation",
+      "logo": "/Sponsors/haas.png"
+    },
+
+  { 
+      "name":"Alp Steel",
+      "logo": "/Sponsors/alp.png"
+    },
+
     {
       "name": "Swiss Automation",
       "logo": "/Sponsors/swiss.png"
     },
     {
-      "name": " The Berlin Faimily",
+      "name": "Berlin Faimily",
       "logo": null
     },
     {

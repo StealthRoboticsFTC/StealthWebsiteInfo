@@ -26,14 +26,14 @@
       "name": "Freight Frenzy",
       "description": "Robots moved freight (balls/cubes) onto alliance hubs, balanced the hub, spun a duck carousel, and parked in specific zones.",
       "gameVideo": "https://www.youtube.com/embed/I6lX12idAf8?si=BVQUT0t8jffqYpbh",
-      "robotImage": "/images/robots/2021-2022-robot.jpg"
+      "robotImage": ""
     },
     {
       "year": "2020-2021",
       "name": "Ultimate Goal",
       "description": "Robots shot rings into low, mid, and high goals, knocked down “power shot” targets, and delivered wobble goals to target zones.",
       "gameVideo": "https://www.youtube.com/embed/H3V3A7CgwPU?",
-      "robotImage": "/images/robots/2020-2021-robot.jpg"
+      "robotImage": ""
     }
   ]
 }

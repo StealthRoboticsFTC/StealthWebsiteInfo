@@ -1,47 +1,77 @@
 {
   "seasons": [
     {
-      "season": "2022-2023 POWERPLAY",
+      "season": "2025-2026 INTO THE DEEP",
       "events": [
         {
-          "name": "State Championship",
-          "date": "March 4, 2023",
-          "result": "Finalist Alliance Captain, Think Award Winner"
-        },
-        {
           "name": "League Championship",
-          "date": "February 18, 2023",
-          "result": "Inspire Award Winner, Finalist Alliance Captain"
+          "result": "N/A"
         },
         {
           "name": "Meet 3",
-          "date": "December 10, 2022",
+          "result": "N/A"
+        },
+        {
+          "name": "Meet 2",
+          "result": "1st Place Robot"
+        },
+        {
+          "name": "Meet 1",
           "result": "1st Place Robot"
         }
       ]
     },
     {
-      "season": "2023-2024 CENTERSTAGE",
+      "season": "2023-2024 CENTER STAGE",
       "events": [
         {
           "name": "State Championship",
-          "date": "March 2, 2024",
-          "result": "Solomon Division Finalist Alliance - 2nd Pick"
+          "date": "March 25, 2024",
+          "result": "Design Award"
         },
         {
           "name": "League Championship",
-          "date": "February 17, 2024",
-          "result": "Finalist Alliance Captain, Think Award Winner, Inspire Award 3rd Place"
+          "date": "February 12, 2024",
+          "result": "Finalist Alliance Captain, 1st Place Think Award, 3rd Place Inspire Award"
         },
         {
           "name": "Meet 3",
-          "date": "December 9, 2023",
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date": "November 18, 2023",
           "result": "2nd Place Robot"
+        },
+        {
+          "name": "Meet 1",
+          "result": "1st Place Robot"
+        }
+      ]
+    },
+    {
+      "season": "2022-2023 POWER PLAY",
+      "events": [
+        {
+          "name": "State Championship",
+          "date": "March 25, 2023",
+          "result": "Design Award"
+        },
+        {
+          "name": "League Championship",
+          "date": "February 12, 2023",
+          "result": "1st Place Robot, Winning Alliance Captain, 1st Place Inspire Award"
+        },
+        {
+          "name": "Meet 3",
+          "result": "1st Place Robot"
+        },
+        {
+          "name": "Meet 2",
+          "result": "2nd Place Robot"
+        },
+        {
+          "name": "Meet 1",
+          "result": "1st Place Robot"
         }
       ]
     },
@@ -50,17 +80,24 @@
       "events": [
         {
           "name": "State Championship",
-          "date": "March 5, 2022",
-          "result": "Finalist Alliance Captain, Think Award Winner"
+          "date": "March 12, 2022",
+          "result": "3rd Place Alliance Captain, 1st Place Think Award"
         },
         {
           "name": "League Championship",
-          "date": "February 19, 2022",
-          "result": "Inspire Award Winner, Finalist Alliance Captain"
+          "date": "February 12, 2022",
+          "result": "1st Place Robot, Winning Alliance Captain, 1st Place Connect Award, 2nd Place Inspire Award"
         },
         {
           "name": "Meet 3",
-          "date": "December 11, 2021",
+          "result": "1st Place Robot"
+        },
+        {
+          "name": "Meet 2",
+          "result": "1st Place Robot"
+        },
+        {
+          "name": "Meet 1",
           "result": "1st Place Robot"
         }
       ]
@@ -70,17 +107,24 @@
       "events": [
         {
           "name": "State Championship",
-          "date": "March 6, 2021",
-          "result": "Finalist Alliance Captain, Think Award Winner"
+          "date": "March 12, 2021",
+          "result": "1st Place Robot, 3rd Place Think Award"
         },
         {
           "name": "League Championship",
-          "date": "February 20, 2021",
-          "result": "Inspire Award Winner, Finalist Alliance Captain"
+          "date": "February 12, 2021",
+          "result": "1st Place Robot, 1st Place Think Award"
         },
         {
           "name": "Meet 3",
-          "date": "December 12, 2020",
+          "result": "1st Place Robot"
+        },
+        {
+          "name": "Meet 2",
+          "result": "1st Place Robot"
+        },
+        {
+          "name": "Meet 1",
           "result": "1st Place Robot"
         }
       ]

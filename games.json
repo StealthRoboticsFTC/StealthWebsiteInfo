@@ -33,7 +33,7 @@
       "name": "Ultimate Goal",
       "description": "Robots shot rings into low, mid, and high goals, knocked down “power shot” targets, and delivered wobble goals to target zones.",
       "gameVideo": "https://www.youtube.com/embed/H3V3A7CgwPU?",
-      "robotImage": ""
+      "robotImage": "/Robot/goal.JPG"
     }
   ]
 }

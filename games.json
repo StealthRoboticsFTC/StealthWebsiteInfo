@@ -4,8 +4,8 @@
       "year": "2025-2026",
       "name": "DECODE",
       "description": " Robots earned points by scoring artifacts in their goal, decoding a randomized match Motif displayed on the obelisk to build matching patterns on their ramp.",
-      "gameVideo": "https://www.youtube.com/watch?v=LCqWA6gSCXA",
-      "robotImage": ""
+      "gameVideo": "https://www.youtube.com/embed/LCqWA6gSCXA",
+      "robotImage": "/Robot/robotcomingsoon.png"
     },
     {
       "year": "2024-2025",

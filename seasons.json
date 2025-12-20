@@ -19,7 +19,7 @@
           "name": "Meet 2",
           "date": "December 6th, 2025",
           "countdown_date": "2025-12-06T09:00:00",
-          "result": "Upcoming"
+          "result": "Second place robot"
         },
         {
           "name": "Meet 1",
@@ -48,17 +48,17 @@
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]
@@ -78,17 +78,17 @@
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "2nd Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]
@@ -108,17 +108,17 @@
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "2nd Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]
@@ -138,17 +138,17 @@
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]
@@ -168,22 +168,22 @@
         },
         {
           "name": "Meet 4",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]

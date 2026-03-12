@@ -4,28 +4,29 @@
       "season": "2025-2026 DECODE",
       "events": [
         {
+          "name": "State Championship",
+          "date": "March 7th, 2026",
+          "result": "Cooper Finalist Alliance Captain and Inspire"
+        },
+        {
           "name": "League Championship",
           "date": "February 21st, 2026",
-          "countdown_date": "2026-02-21T09:00:00",
-          "result": "Upcoming"
+          "result": "Winning Alliance and 1st Place Inspire Award"
         },
         {
           "name": "Meet 3",
-          "date": "January 17th, 2026",
-          "countdown_date": "2026-01-17T09:00:00",
-          "result": "Upcoming"
+          "date": null,
+          "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date": "December 6th, 2025",
-          "countdown_date": "2025-12-06T09:00:00",
-          "result": "Upcoming"
+          "date": null,
+          "result": "2nd Place Robot"
         },
         {
           "name": "Meet 1",
-          "date": "November 15th, 2025",
-          "countdown_date": "2025-11-15T09:00:00",
-          "result": "Upcoming"
+          "date": null,
+          "result": "3rd Place Robot"
         }
       ]
     },
@@ -49,17 +50,17 @@
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]
@@ -79,17 +80,17 @@
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "2nd Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]
@@ -109,17 +110,17 @@
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "2nd Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]
@@ -139,17 +140,17 @@
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]
@@ -169,22 +170,22 @@
         },
         {
           "name": "Meet 4",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 3",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 2",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         },
         {
           "name": "Meet 1",
-          "date" : null,
+          "date": null,
           "result": "1st Place Robot"
         }
       ]

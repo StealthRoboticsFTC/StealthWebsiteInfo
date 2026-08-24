@@ -4,9 +4,7 @@
       "name": "Alex B.",
       "role": "Builder and Statistician",
       "seasons": "Relic Recovery, Rover Ruckus, Skystone, Ultimate Goal, and Freight Frenzy",
-      "year": "Senior",
-      "attending": "University of Tampa",
-      "major": "Finance",
+      "job": "Oracle",
       "image": "/Alumni/alex.jpg"
     },
     {
@@ -20,25 +18,20 @@
       "name": "Jake M.",
       "role": "Builder and Programmer",
       "seasons": "Rover Ruckus, Skystone, and Ultimate Goal",
-      "year": "Senior",
-      "attending": "University of Illinois",
-      "major": "Computer Science",
+      "job": "Google",
       "image": "/Alumni/jakem.jpg"
     },
     {
       "name": "Johnathan V.",
       "role": "Programmer",
       "seasons": "Ultimate Goal and Freight Frenzy",
-      "year": "Senior",
-      "attending": "University of Illinois",
-      "major": "Electrical Engineering",
       "image": "/Alumni/johnothan.jpg"
     },
     {
       "name": "Jake S.",
       "role": "Builder",
       "seasons": "Skystone, Ultimate Goal, Freight Frenzy, and Power Play",
-      "year": "Junior",
+      "year": "Senior",
       "attending": "Iowa State",
       "major": "Mechanical Engineering",
       "image": "/Alumni/jake.webp"
@@ -47,7 +40,7 @@
       "name": "Ethan H.",
       "role": "Builder",
       "seasons": "Power Play",
-      "year": "Junior",
+      "year": "Senior",
       "attending": "Georgia Tech",
       "major": "Biomedical Engineering",
       "image": "/Alumni/ethan.webp"
@@ -56,7 +49,7 @@
       "name": "Jacob B.",
       "role": "Builder",
       "seasons": "Power Play",
-      "year": "Junior",
+      "year": "Senior",
       "attending": "University of Chicago",
       "major": "",
       "image": "/Alumni/Jacob.JPG"
@@ -65,7 +58,7 @@
       "name": "Joshua C.",
       "role": "Programmer",
       "seasons": "Freight Frenzy, Power Play, and Center Stage",
-      "year": "Sophomore",
+      "year": "Junior",
       "attending": "University of Illinois",
       "major": "Computer Science + Bio-Engineering",
       "image": "/Alumni/joshua.webp"
@@ -74,16 +67,16 @@
       "name": "Daniel D.",
       "role": "Programmer",
       "seasons": "Freight Frenzy, Power Play, and Center Stage",
-      "year": "Sophomore",
+      "year": "Junior",
       "attending": "University of Illinois",
       "major": "Computer Engineering",
       "image": "/Alumni/daniel.webp"
     },
     {
       "name": "Hailey V.",
-      "role": "Programmer",
+      "role": "Outreach",
       "seasons": "Center Stage",
-      "year": "Sophomore",
+      "year": "Junior",
       "attending": "Elmhurst University",
       "major": "Psychology and Criminal Justice ",
       "image": "/Alumni/hailey.JPG"
@@ -92,7 +85,7 @@
       "name": "Tyler B.",
       "role": "Builder and Outreach",
       "seasons": "Skystone, Ultimate Goal, Freight Frenzy, Power Play, Center Stage, and Into The Deep",
-      "year": "Freshmen",
+      "year": "Sophomore",
       "attending": "University of Tampa",
       "major": "Business Information Technology and Cybersecurity",
       "image": "/Alumni/tyler.JPG"
@@ -101,7 +94,7 @@
       "name": "Sohan A.",
       "role": "Builder and Programmer",
       "seasons": "Power Play, Center Stage, and Into The Deep",
-      "year": "Freshmen",
+      "year": "Sophomore",
       "attending": "Northwestern University",
       "major": "Biochemistry",
       "image": "/Alumni/sohan.JPG"
